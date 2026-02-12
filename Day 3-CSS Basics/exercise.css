@@ -1,0 +1,51 @@
+/* General Page Styling */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* The ID Card Container */
+.ID {
+    background-color: #ffffff;
+    width: 350px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    text-align: center;
+
+}
+
+/* Title Section */
+.header h1 {
+    background-color: #6b90d0;
+    padding: 12px;
+    margin: 50px;
+    font-size: 20px;
+}
+
+/* Image Styling */
+.id-body{
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid #ccc;
+}
+
+/* Details Section */
+.info {
+    margin-top: 20px;
+    text-align: center;
+    color:#444;
+}
+
+
+/* Footer / Copyright */
+.footer {
+    font-size: 10px;
+    margin:50px;
+    background-color: #444;
+}
