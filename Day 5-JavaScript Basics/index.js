@@ -53,5 +53,5 @@ headingElementByQuery.style.fonsize='24px';
 const buttonELement=document.querySelector('.btn');
 buttonELement.addEventListener('click',function () {
     alert('Button clicked');
-    console.log('Button clciked');
+    console.log('Button clicked');
 });
